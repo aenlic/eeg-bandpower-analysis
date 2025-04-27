@@ -1,0 +1,6 @@
+# Required Python libraries for the EEG Power Spectrum Analysis script
+
+pandas
+numpy
+scipy
+matplotlib
